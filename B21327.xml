@@ -1,0 +1,441 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached at the anniversary meeting of the sons of clergy-men in the church of S. Mary le Bow on Thursday, Decemb. 2, 1686 by Henry Dove.</title>
+            <author>Dove, Henry, 1640-1695.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1686</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 51 KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B21327</idno>
+            <idno type="STC">Wing D2051</idno>
+            <idno type="EEBO-CITATION">10264805</idno>
+            <idno type="OCLC">ocm 10264805</idno>
+            <idno type="VID">204610</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B21327)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 204610)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1382:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached at the anniversary meeting of the sons of clergy-men in the church of S. Mary le Bow on Thursday, Decemb. 2, 1686 by Henry Dove.</title>
+                  <author>Dove, Henry, 1640-1695.</author>
+               </titleStmt>
+               <extent>38 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Benj. Tooke,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1687.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Printed at the desire of the right worshipful the Stewards of the Feast, to whom it is humbly presented."</note>
+                  <note>"Imprimatur, Dec. 13. 1686. Jo. Battely."</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>Kate Allen</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>Kate Allen</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:204610:1"/>
+            <p>A SERMON Preached at the Anniverſary Meeting OF THE <hi>Sons of Clergy-men,</hi> In the Church of S. <hi>Mary le Bow,</hi> On Thurſday, <hi>Decemb.</hi> 2. 1686.</p>
+            <p>Printed at the Deſire of the Right Worſhipful The Stewards of the Feaſt, To whom it is Humbly Preſented.</p>
+            <p>By <hi>HENRY DOVE,</hi> D. D. One of his Majeſties Chaplains in Ordinary.</p>
+            <p>
+               <floatingText type="license" xml:lang="lat">
+                  <body>
+                     <p>Imprimatur,</p>
+                     <closer>
+                        <dateline>
+                           <date>
+                              <hi>Dec.</hi> 13. 1686.</date>
+                        </dateline>
+                        <signed>Jo. Battely.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Benj. Tooke,</hi> at the Ship in St. <hi>Paul</hi>'s Church-yard. 1687.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:204610:2"/>
+            <epigraph>
+               <bibl>
+                  <pb n="1" facs="tcp:204610:2"/>Gen. Ep. of St. <hi>Jude,</hi> v. 3.</bibl>
+               <q>—That ye ſhould earneſtly contend for the Faith which was once delivered to the Saints.</q>
+            </epigraph>
+            <p>IF it was needful for the Apoſtles to write unto the Churches, and to exhort them to ſtedfaſtneſs and perſeverance in the Faith, while the Goſpel was yet freſh in their memories; it is certainly more neceſſary for us who live at this diſtance, if we expect the ſame <hi>common Salvation,</hi> to be in<g ref="char:EOLhyphen"/>ſtant, and to urge the like Exhortations, by how much the reaſon of their diligence and zeal is far more prevalent in our times.</p>
+            <p>For unleſs the Complaints of all ſober men be groundleſs, unleſs the publick Voice, and our own Experience deceive us, the ſundry Prophecies of the laſt days are fulfilled in ours; and the Miſchiefs that did but creep in the be<g ref="char:EOLhyphen"/>ginning of Chriſtianity, gather ſtrength and multiply among us, upon whom the Ends of the World are come. Should I read unto you this whole Epiſtle of St. <hi>Jude,</hi> or the greateſt part of the ſecond of St. <hi>Peter,</hi> which in moſt
+<pb n="2" facs="tcp:204610:3"/> things agrees with this, your own Obſervation would preſently ſuit each Character; you would point out the Perſons to whom they be<g ref="char:EOLhyphen"/>longed, and think it not improbable, that when the Spirit of God did inſpire theſe holy men, he might do it with an eye to the preſent Age.</p>
+            <p>But being I come not hither to cenſure o<g ref="char:EOLhyphen"/>thers, but to confirm our ſelves in the true Faith, and being Errour falls and diſappears of it ſelf, when the Truth is ſet in a clear light, I ſhall wave thoſe black deſcriptions both of the Perſons and their Doctrines, which the A<g ref="char:EOLhyphen"/>poſtle has here expoſed before us, and ſhall onely uſe them as ſo many Arguments of our care and caution, that if we meet with the men, (as 'tis hard to avoid them) we may not<g ref="char:EOLhyphen"/>withſtanding ſhun their Errours; that while we complain of Diviſions on one hand, and Corruptions on another, of Ignorance in ſome, Irreligion in others, and Careleſneſs in moſt, we may be ſure not to contribute to the in<g ref="char:EOLhyphen"/>creaſe of either; but that we labour for know<g ref="char:EOLhyphen"/>ledge and a good Conſcience, the loſs of which is enough of it ſelf to endanger our Faith, though there were none without us to oppoſe it; and then that we ſtudy to be quiet, and as much as lieth in us, and if it be poſſible, fol<g ref="char:EOLhyphen"/>low
+<pb n="3" facs="tcp:204610:3"/> peace with all men: for theſe (we know) are infallible Evidences of a Goſpel-temper, and inſeparable Concomitants of a meek and ſincere Chriſtian.</p>
+            <p>Or if it be not poſſible for us to compaſs peace with all, ſeeing all men have not Faith, all men are not ſincere, let not that diſcou<g ref="char:EOLhyphen"/>rage, but rather whet our diligence in doing our own undoubted duty: Though it exceed our power and skill to make all men of one mind, and we cannot of our ſelves attain unto it, yet ſince we are ſure of the mind of Chriſt and his Apoſtles, let us always remember what he revealed, and what they preached, believing the Truth as it is in Jeſus, continuing in the Truth as 'tis after Godlineſs, living peaceably, charitably, and unblameably our ſelves, and praying continually both for our ſelves and o<g ref="char:EOLhyphen"/>thers, and thus <hi>earneſtly contend for the Faith which was once delivered to the Saints.</hi>
+            </p>
+            <p>The words are a plain, but pathetical Ex<g ref="char:EOLhyphen"/>hortation to an indiſpenſible and weighty Du<g ref="char:EOLhyphen"/>ty, incumbent on every man that hath given up his Name to Chriſt, that profeſſes the true Apoſtolick Faith, and hopes to be ſaved in that Profeſſion. And ſurely (my Brethren) if this be required of every Chriſtian, it will highly become us that are here aſſembled, when we
+<pb n="4" facs="tcp:204610:4"/> reflect on the relation wherein we ſtand, not meerly as Profeſſours, but ſome as <hi>Fathers,</hi> many as <hi>Diſpenſers,</hi> and all as <hi>Sons</hi> in the com<g ref="char:EOLhyphen"/>mon Faith, to be very earneſt and zealous for it; that ſo we may at once credit our Extra<g ref="char:EOLhyphen"/>ction, and adorn the Goſpel of God our Sa<g ref="char:EOLhyphen"/>viour; that we may walk worthy of that good Providence which attended us in our Birth, and bleſſed us in our Baptiſm, and manifeſt the ef<g ref="char:EOLhyphen"/>ficacy of that primitive and ſound Doctrine which both our <hi>Fathers</hi> and our <hi>Church</hi> have taught us.</p>
+            <p>That therefore I may recommend the Duty to your practice, I ſhall obſerve what is pro<g ref="char:EOLhyphen"/>per for our inſtruction in the words, and handle them in a method that may fairly conduce to each: In order to which, I ſhall endeavour,</p>
+            <list>
+               <item>I. To explain the meaning of this word <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, or <hi>Faith.</hi>
+               </item>
+               <item>II. To conſider the manner of its convey<g ref="char:EOLhyphen"/>ance, and the Perſons that received it, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>delivered to the Saints.</hi>
+               </item>
+               <item>III. To obſerve the emphaſis or force of the particle <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>The Faith was delivered to the Saints, and that but once.</hi>
+               </item>
+               <item>IV. To conclude all with the earneſt Ex<g ref="char:EOLhyphen"/>hortation of St. <hi>Jude,</hi> that upon theſe
+<pb n="5" facs="tcp:204610:4"/> and ſome other motives I ſhall offer, we may be effectually perſwaded, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>to contend earneſtly for it; i. e.</hi> to de<g ref="char:EOLhyphen"/>fend it with our utmoſt vigour, to ſtrive together that we loſe it not; not with the fury of a blind miſguided Zeal, which produceth Confuſion and every evil Work; but with the Spirit of power, and of love, and of a ſound mind, and with meekneſs of wiſdom, as becometh Saints.</item>
+            </list>
+            <p n="1">I. I need not ſtay to tell you, that this word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, or <hi>Faith,</hi> hath as many, and perhaps more ſignifications than any ſingle word in the whole Scriptures, which are obvious and eaſie to every careful Reader: I ſhall onely explain the ſence of it in this place, as 'tis drawn from the na<g ref="char:EOLhyphen"/>ture of Faith. Divine Faith in general is no<g ref="char:EOLhyphen"/>thing elſe but an aſſent to the Truths of God, upon his own Word and Teſtimony; let it appear that God hath declared it, and there needs no other ground of our Belief: And the Faith of a Chriſtian is an aſſent to the ſame truths, and upon the ſame grounds; but as the Church of Chriſt now ſtands, and muſt conti<g ref="char:EOLhyphen"/>nue to the end of the World, it admits of this addition, as they are delivered unto us in the Writings of the Apoſtles and Prophets. In
+<pb n="6" facs="tcp:204610:5"/> which you may eaſily diſtinguiſh two things; the aſſent of the Underſtanding, and ſomething credible; the act of Believing, and the object of Faith. Now although the Faith in the Text doth not exclude, but rather ſuppoſe the for<g ref="char:EOLhyphen"/>mer, for how ſhould we contend for that which we do not believe? yet it principally denotes the latter, <hi>i. e.</hi> the word of Faith, the Doctrine that brings Salvation, the undoubted Principles of our holy Religion, contained at large in the Goſpel, and ſum'd up in the Apoſtolical and Primitive Confeſſions. And this is evident, 1. from the following word in the Text, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the Faith <hi>delivered;</hi> for as for the Act or Habit of Faith, it is either produced by the or<g ref="char:EOLhyphen"/>dinary means of hearing, or elſe ſupernatural<g ref="char:EOLhyphen"/>ly infus'd by the Spirit of God: but that which is properly delivered, is the Doctrine it ſelf, either by word of mouth or by writing. And 2. from many parallel places of Scripture, as <hi>Acts</hi> 13. 8. <q rend="margQuotes">Where <hi>Elymas</hi> the Sorcerer ſought to turn away the Deputy from the Faith, who is afterwards ſaid, <hi>v.</hi> 12. to be a<g ref="char:EOLhyphen"/>ſtoniſhed at the Doctrine of the Lord: </q> and <hi>Acts</hi> 14. 22. <q rend="margQuotes">When St. <hi>Paul</hi> and <hi>Barnabas</hi> had preached the Goſpel to ſeveral Cities, they confirmed the Souls of the Diſciples, and ex<g ref="char:EOLhyphen"/>horted them to continue in the Faith: </q>nay,
+<pb n="7" facs="tcp:204610:5"/> St. <hi>Paul</hi> tells us of himſelf, <hi>Gal.</hi> 1. 23. <q rend="margQuotes">That he preached the Faith which once he deſtroyed; and propheſies alſo of others, That in the lat<g ref="char:EOLhyphen"/>ter times ſome ſhall depart from the Faith,</q> 1 <hi>Tim.</hi> 4. 1. By all which, we are to underſtand <hi>the Doctrine of Faith;</hi> that Faith which God revealed by his Son, which Chriſt made known to his Apoſtles, and the Apoſtles preached to the World; at the promulgation of which, the Angels rejoyced, and the Devils trembled, to ſee Man ſo wonderfully redeemed, and themſelves irrecoverably left in everlaſting chains; which was propagated by Signes and Wonders, and ſo demonſtrated by Miracles, that men were eaſily induced to believe the Word of God in their mouths, while they ſaw the Power of God in every Apoſtles hand; by the energy of which the Cripples were cured, the Dead were raiſed, and ſome at firſt were deprived of life: That Faith which all the Prophets foretold, which the Evangeliſts pen'd, and the Church receiv'd: That Faith which in one day by the firſt <hi>Pentecoſt</hi>-Sermon, conver<g ref="char:EOLhyphen"/>ted <note place="margin">Acts 2. 41<g ref="char:punc">▪</g>
+               </note> about 3000 Souls, and hath crowned ma<g ref="char:EOLhyphen"/>ny Millions in ſucceeding Ages, with eternal Glory: In a word, That Faith which hath ſa<g ref="char:EOLhyphen"/>ved all the Saints that are already in Heaven, and muſt bring all the reſt that are ordained
+<pb n="8" facs="tcp:204610:6"/> to come thither. Which leads me in the next place,</p>
+            <p n="2">II. To conſider <hi>the manner of its conveyance,</hi> and <hi>the perſons that received it, The Faith deli<g ref="char:EOLhyphen"/>vered to the Saints:</hi> I put theſe two together, becauſe they will help to explain each other. And here if we would take in the whole we contend for, we muſt go back to the beginning, not onely to <hi>the Book of the Generation of Je<g ref="char:EOLhyphen"/>ſus Chriſt,</hi> but even to the <hi>Epoche of time it ſelf,</hi> and may trace it down briefly in this ſuc<g ref="char:EOLhyphen"/>ceeding courſe: When God had created man for his own ſervice, that is, his glory, he was pleaſed to reveal his will to him, becauſe what was hid from him could never be the inſtance of his duty; and hence to the Law of Nature which he printed on his mind, he added a po<g ref="char:EOLhyphen"/>ſitive command to try the integrity of his obe<g ref="char:EOLhyphen"/>dience: and this was the firſt Revelation made to <hi>Adam</hi> in innocence, whereby he was enjoin'd to believe and to obey his Maker. But alas! we all know what <hi>Adam</hi> did, and feel the ſad ef<g ref="char:EOLhyphen"/>ects of his tranſgreſſion unto this day: <q rend="margQuotes">where<g ref="char:EOLhyphen"/>fore in the ſucceeding Ages he ſpake unto the Fathers at ſundry times, and in divers manners,</q> 
+               <hi>Heb.</hi> 1. ſometimes by an audible Voice, and ſometimes by ſecret Illapſes, by Dreams and by Viſions, by the Miniſtry of Men, and by the
+<pb n="9" facs="tcp:204610:6"/> Meſſage of Angels: And when the fulneſs of time was come, he ſpake unto us once for all, <hi>by his onely begotten Son;</hi> who being from all eternity in the boſom of the Father, was a<g ref="char:EOLhyphen"/>ble to know; and undertaking this errand of his infinite compaſſion, and his own accord, was willing to impart whatever was neceſſary for us to receive: In order to which, he took our Nature upon him, converſed among us, unfol<g ref="char:EOLhyphen"/>ding the Myſtery which was before kept ſecret, and ſo became <hi>the Author of this Faith.</hi> And as his Mercy was great in his Advent, ſo he ſhew'd his Wiſdom in the choice of the Perſons to whom he delivered this Will; for he did not propound it at all adventures, and expoſe it to the uncertain Multitude, or commit it to the hands of the prejudiced Rabbies, not unto the Rich and Noble, or the Wiſe and Learn<g ref="char:EOLhyphen"/>ed of the Age; but unto a ſelected company of illiterate <hi>Galileans,</hi> twelve men of mean qua<g ref="char:EOLhyphen"/>lity, and from an obſcure corner, without the advantages of Birth or Breeding, that by the weakneſs of the Inſtruments, and the impro<g ref="char:EOLhyphen"/>bability of the means, the Power of God might appear ſtronger. Theſe were they, deſpiſed indeed by men, but highly favoured of God, and choſen by Chriſt to be Witneſſes of all that he began both to do, and teach, and ſuf<g ref="char:EOLhyphen"/>fer:
+<pb n="10" facs="tcp:204610:7"/> Who being always <hi>à latere</hi> to their Lord and Maſter, and enjoying the acceſs of Favou<g ref="char:EOLhyphen"/>rites, and the freedom of Friends, had the e<g ref="char:EOLhyphen"/>vidence of their outward Senſes to confirm the inward perſwaſion of their Minds, whereby they were as infallibly aſſured that he knew all things, and that he came forth from God, as that they heard him ſpeak, or ſaw him work a Miracle: And thus St. <hi>John</hi> the familiar Diſci<g ref="char:EOLhyphen"/>ple teſtifieth of himſelf and the reſt of the A<g ref="char:EOLhyphen"/>poſtles, 1 <hi>Ep.</hi> 1. 1. <q rend="margQuotes">That which was from the beginning, which we have heard, which we have ſeen with our eyes, which we have look<g ref="char:EOLhyphen"/>ed upon, and our hands have handled of the word of life; that which we have ſeen and heard declare we unto you.</q>
+            </p>
+            <p>And as they were Witneſſes of all his Di<g ref="char:EOLhyphen"/>vine Speeches, and mighty Works, and bitter. Sufferings, and above all, of his glorious Re<g ref="char:EOLhyphen"/>ſurrection <note place="margin">Act. 1. 22.</note> from the dead, even of all that had paſſed from the Baptiſm of <hi>John,</hi> until the day of his Aſſumption; ſo after his Aſcenſion, he confirmed their Minds, and increaſed their Faith, and emboldened their Faces, by the punctual performance of the Promiſe he made them on Earth in ſending the Spirit from Hea<g ref="char:EOLhyphen"/>ven: That good Spirit that enlightened their Underſtandings, furniſhed their Memories, and
+<pb n="11" facs="tcp:204610:7"/> guided them into all Truth; that inſpired them with the gift of Tongues and of Prophe<g ref="char:EOLhyphen"/>cy, endued them with a power of working Miracles alſo, in ſome reſpects greater than thoſe he had wrought himſelf, and brought all things freſh to their remembrance whatſoever they had ſeen or heard before, or were now to publiſh. By which they were fully inſtru<g ref="char:EOLhyphen"/>cted and animated, and perfectly enabled to diſcharge their truſt, maugre all the oppoſition that malice, or rage, or wit, or power could make againſt them; for by one ſhort Sermon (as I ſaid) which you read in the ſecond of the <hi>Acts,</hi> they augmented the former number of 120 with the addition of about 3000 Souls, and by the next, (recorded in the third) of <q rend="margQuotes">near 5000 more: ſo mightily grew the Word <note place="margin">Act. 4. 4.</note> of God, and prevailed, and Believers were the more added to the Lord, multitudes both of men and women, </q>
+               <hi>Act.</hi> 5. 14.</p>
+            <p>Theſe were the Perſons to whom the Faith was at firſt delivered, and theſe the means of its firſt conveyance: That which Chriſt recei<g ref="char:EOLhyphen"/>ved of his Father, he delivered unto the Apo<g ref="char:EOLhyphen"/>ſtles; that which the Apoſtles received of Chriſt, they delivered to the Saints, who were called ſo to be, being converted by their prea<g ref="char:EOLhyphen"/>ching: And thus the Faith was planted, and
+<pb n="12" facs="tcp:204610:8"/> the Church of Chriſt was founded. That Primitive, Holy, and Uniform Church which began at <hi>Jeruſalem,</hi> and was the Mother of all true Churches in after Ages; which conſiſted of a company of faithful, and obedient, and devout People, profeſſing the ſame Doctrine, communicating in the ſame Sacraments, and preſenting the ſame Prayers: As ye find them deſcrib'd, <hi>Act.</hi> 2. 41, 42. <q rend="margQuotes">Then they that glad<g ref="char:EOLhyphen"/>ly received his word, were baptized, and the ſame day there were added unto them about 3000 Souls; and they continued ſtedfaſtly in the Apoſtles Doctrine and Fellowſhip, and in breaking of Bread, and in Prayers.</q> I be<g ref="char:EOLhyphen"/>ſeech you, conſult the place, and ponder the words well, becauſe they contain all the ne<g ref="char:EOLhyphen"/>ceſſary Notes, and eſſential Ingredients of a true Church: They were <hi>all baptized,</hi> there's the entrance by Baptiſm; they ſtedfaſtly retained the <hi>Apoſtles Doctrine,</hi> there's the unity of the Faith; they continued in the <hi>Apoſtles Fellow<g ref="char:EOLhyphen"/>ſhip,</hi> there's their union and adherence to their Governours; they received the bleſſed Eu<g ref="char:EOLhyphen"/>chariſt, expreſſed by <hi>breaking of bread,</hi> and con<g ref="char:EOLhyphen"/>ſented in the uſe of the common <hi>Prayers,</hi> there's the Uniformity of their Worſhip. Theſe were the Saints of the firſt Church, built upon the Faith which the Apoſtles then prea<g ref="char:EOLhyphen"/>ched,
+<pb n="13" facs="tcp:204610:8"/> made capable of a continual increaſe, and an uninterrupted ſucceſſion: <q rend="margQuotes">for the Lord added daily then ſuch as ſhould be ſaved,</q> and<note place="margin">Acts 2. 47.</note> hath ever ſince added more, and will ſtill per<g ref="char:EOLhyphen"/>ſevere to adde, even unto the end of the World, till he ſhall have compleated the num<g ref="char:EOLhyphen"/>ber of his Elect, <q rend="margQuotes">and preſented unto himſelf a glorious Church, without ſpot or wrinkle, in <note place="margin">Eph. 5. 27.</note> Heaven.</q> So much for <hi>the manner of its firſt con<g ref="char:EOLhyphen"/>veyance,</hi>and <hi>the Perſons that firſt received it.</hi>
+            </p>
+            <p>But here ariſeth a material queſtion that concerns all the ſucceeding Ages, and is of great moment to us now living; for that the Faith was at firſt revealed by Chriſt, and publiſhed by his Apoſtles, is confeſſed by all Chriſtians, however they be otherwiſe divided in their o<g ref="char:EOLhyphen"/>pinions or judgments: but where this Faith is now to be found, and how it is derived down<g ref="char:EOLhyphen"/>wards unto us, who live at the diſtance of 1600 years and upwards, is a controverſie that at this very hour diſturbs Chriſtendom.</p>
+            <p>That 'tis preſerved in the Scriptures as a perfect Rule of Gods revealed Will, is the Do<g ref="char:EOLhyphen"/>ctrine of ours, and all reformed Churches: That the Scriptures are not a ſufficient Rule of Faith, but want a ſupply from Tradition, is the known Doctrine of the Church of <hi>Rome.</hi> By the meer mention of which, you cannot
+<pb n="14" facs="tcp:204610:9"/> but ſee the neceſſity of a Reſolution, for ſet<g ref="char:EOLhyphen"/>ling our Judgments, for guiding our Conſci<g ref="char:EOLhyphen"/>ences, and building us up in our moſt holy Faith: In order to which, I crave leave to pre<g ref="char:EOLhyphen"/>miſe ſome few preliminaries, that may at once give us light, and prevent cavils in this En<g ref="char:EOLhyphen"/>quiry.</p>
+            <p n="1">1. It is confeſſed, that as our Saviour writ <note place="margin">Mat. 28. 19. Mark 16. 15.</note> nothing himſelf, ſo the commiſſion he gave his Apoſtles was not to write, but to teach and preach.</p>
+            <p n="2">2. But then it is no leſs certain, that the A<g ref="char:EOLhyphen"/>poſtles taught the Churches by writing, as well <note place="margin">2 Theſſ. 2. 2. &amp; 5. 1 Cor. 11. 2.</note> as by preaching; and that the Faith was pro<g ref="char:EOLhyphen"/>pagated by both, by preaching to the Saints preſent, by writing to thoſe abſent.</p>
+            <p n="3">3. Whatever the Apoſtles delivered by word of mouth, or committed to writing, is of equal authority, becauſe in both they were inſpired by the Holy Ghoſt: If therefore it appear, that what is delivered, be the Word and Will of God, whether it be written or unwritten, 'tis ſufficient ground of a Chriſtians Faith.</p>
+            <p n="4">4. But then fourthly, ſince it is impoſſible to make it appear, that after the Scriptures were written, and the Canon was compleat, there remained ſome Articles of Faith preſer<g ref="char:EOLhyphen"/>ved
+<pb n="15" facs="tcp:204610:9"/> onely by Tradition, and not delivered in the Scriptures, it will naturally follow, that the written Word of God is a ſufficient Rule of divine Faith.</p>
+            <p>I confeſs at the firſt, when Chriſtianity was confin'd to a narrow compaſs, and the number of Believers was but ſmall, their zeal and con<g ref="char:EOLhyphen"/>cern for the Faith was ſuch, that there was no danger of letting any thing ſlip which they had received as a neceſſary Doctrine; and then <hi>O<g ref="char:EOLhyphen"/>ral Tradition</hi> was a proper conveyance of the divine Will, eſpecially conſidering that then the gifts of the Spirit were plentifully ſhed, not onely on the Apoſtles, but on every true Be<g ref="char:EOLhyphen"/>liever alſo: But when the Word of God grew and multiplied, and the Religion of Jeſus gain<g ref="char:EOLhyphen"/>ed ground in the World, when it ſpread it ſelf far and near, and paſſed through many hands into divers remote Countries, the ſame Spirit that moved the Apoſtles to teach and preach, moved ſome of them to write what they had preached, and other holy men to write what they had ſeen and heard, leſt in proceſs of time their Doctrine might be forgotten by the careleſneſs of luke-warm Profeſſours, or cor<g ref="char:EOLhyphen"/>rupted by the contrivance of crafty Hereticks, or deſtroyed by the malice of the Devil.</p>
+            <p>And truly, though the Writings of any one
+<pb n="16" facs="tcp:204610:10"/> Apoſtle appointed for this purpoſe had been ſufficient to preſerve the Faith entire, parti<g ref="char:EOLhyphen"/>cularly had we onely the Goſpel of St. <hi>John,</hi> affirming of himſelf, that though he had omit<g ref="char:EOLhyphen"/>ted many things that Jeſus did, yet he had written all things neceſſary to ſalvation, <hi>Joh.</hi> 20. 30, 31. <q rend="margQuotes">And many other ſignes tru<g ref="char:EOLhyphen"/>ly did Jeſus in the preſence of his Diſciples, which are not written in this Book: </q>
+               <hi>But theſe are written,</hi> why? <hi>that ye might believe;</hi> written that ye might believe what? <hi>that Je<g ref="char:EOLhyphen"/>ſus is the Chriſt, the Son of God;</hi> and what of that? <hi>and that believing,</hi> (this, as the great foundation of all the reſt, which the belief of this is apt to produce in your hearts and lives) <hi>ye might have life through his Name.</hi> I ſay, though the Teſtimony of one in this manner had been ſufficient, yet ſuch is the Providence of God, and his abundant care of his Church, which muſt continue to the end of the World, that he ratifies his Will by a joynt teſtimony, and conſignes the Rule of our Faith by the hands of ſeveral Witneſſes, differing perhaps in ſtile and method, and other circumſtances, but a<g ref="char:EOLhyphen"/>greeing in the ſubſtance of all things neceſſa<g ref="char:EOLhyphen"/>ry, as the water is the ſame, though it be con<g ref="char:EOLhyphen"/>veyed through ſundry pipes and channels.</p>
+            <p>From what hath been premiſed, we may
+<pb n="17" facs="tcp:204610:10"/> thus argue: If to preſerve a thing from obli<g ref="char:EOLhyphen"/>vion or corruption, be the main end of wri<g ref="char:EOLhyphen"/>ting it, then all that is neceſſary to ſalvation was alſo written, becauſe 'tis moſt requiſite to preſerve what is moſt neceſſary. Or if you pleaſe, thus: If it was neceſſary for the Apo<g ref="char:EOLhyphen"/>ſtles to write at all, leſt what they had deli<g ref="char:EOLhyphen"/>vered might be loſt, it was requiſite they ſhould write all that was neceſſary, leſt the de<g ref="char:EOLhyphen"/>ſigne of the whole might be fruſtrated. For when God of his infinite goodneſs had reveal<g ref="char:EOLhyphen"/>ed his Will for the ſalvation of man, and in his own due time inſpired thoſe holy men that writ it, had they with-held or ſuppreſſed any part of it, the drift of the whole had been rendered ineffectual, our Faith had been lame, and the means of our ſalvation imperfect: Which can never conſiſt with the integrity of ſuch as are ſuppoſed to write by inſpiration, nor with the goodneſs of God that inſpired them in order to the ſalvation of mankind.</p>
+            <p>But if this general Argument be leſs perſwa<g ref="char:EOLhyphen"/>ſive, give me leave to enforce it with a mat<g ref="char:EOLhyphen"/>ter of fact, which admits of no exception. And here, for the Authority of the Old Teſta<g ref="char:EOLhyphen"/>ment, we have the references and quotations of our Saviour and his Apoſtles, for the perfection of the New, the concurrent teſtimony of the
+<pb n="18" facs="tcp:204610:11"/> Antients; and for the ſufficiency of both, the conſtant appeals of the Church of God.</p>
+            <p n="1">1. It is manifeſt, that though our Saviour ſometimes proved the truth of his Doctrine by Miracles and mighty Works, yet general<g ref="char:EOLhyphen"/>ly he appeal'd to the Scriptures as to the prin<g ref="char:EOLhyphen"/>cipal teſt of the greateſt truths: for thus he confuted the Sadducees in that fundamental Article of the Reſurrection, <hi>Mat.</hi> 22. 29. <q rend="margQuotes">Ye do err, not knowing the Scriptures.</q> To them he referred the Jews when he prov'd himſelf the Meſſias, <hi>Joh.</hi> 5. 39. <q rend="margQuotes">Search the Scriptures, for in them ye think ye have e<g ref="char:EOLhyphen"/>ternal life, and they are they that teſtifie of me.</q> By them he confirmed his Diſciples, when he was riſen from the dead: for, <q rend="margQuotes">be<g ref="char:EOLhyphen"/>ginning at <hi>Moſes</hi> and all the Prophets, he expounded unto them in all the Scriptures, the things concerning himſelf, </q>
+               <hi>Luke</hi> 24. 27. And hence St. <hi>Peter</hi> ſeems to prefer the Pro<g ref="char:EOLhyphen"/>phecies of old time, before an immediate <q rend="margQuotes">voice from Heaven; for though we heard the voice in the holy Mount, 2 <hi>Pet.</hi> 1. 18. yet he pre<g ref="char:EOLhyphen"/>ſently adds, we have alſo a more ſure word of Propheſie, whereunto ye do well that ye take heed, as unto a light that ſhineth in a dark place.</q> Thus St. <hi>Paul</hi> commends <hi>Timo<g ref="char:EOLhyphen"/>thy,</hi> that from a child he had <q rend="margQuotes"> known the ho<g ref="char:EOLhyphen"/>ly
+<pb n="19" facs="tcp:204610:11"/> Scriptures, which were able to make him wiſe unto ſalvation, through Faith which is in Chriſt Jeſus, </q> 2 <hi>Tim.</hi> 3. 15. And to name no more, <q rend="margQuotes">The <hi>Beraeans</hi> are ſaid to be more noble than they of <hi>Theſſalonica,</hi> becauſe they ſearched the Scriptures daily, whether theſe things were ſo, </q>
+               <hi>Acts</hi> 17. 11.</p>
+            <p>But you'll ſay, the teſtimonies hitherto pro<g ref="char:EOLhyphen"/>duced, concern onely the Old Teſtament; what's all this to the New, which was not writ<g ref="char:EOLhyphen"/>ten while our Saviour was on Earth, but after the deſcent of the Holy Ghoſt, and that at ſome diſtance of time, and by degrees, as the Spirit moved the Apoſtles and other holy men to write? For the perfection therefore and ſuffi<g ref="char:EOLhyphen"/>ciency of the New we have the practice of the Church in the pureſt times, and the unanimous conſent of the Fathers who appealed to the Scriptures in all their queſtions that concerned Faith or Manners, and confuted all Hereſies by them. An Argument, I confeſs, from hu<g ref="char:EOLhyphen"/>mane teſtimony, but yet of undoubted autho<g ref="char:EOLhyphen"/>rity, ſuch as no prudent man has reaſon to di<g ref="char:EOLhyphen"/>ſtruſt, and ſuch as the matter is capable of. I know they did ſometimes alledge Traditions, eſpecially when they diſputed with thoſe that denied the Scriptures; but this does not at all infer the inſufficiency of the Scriptures, becauſe
+<pb n="20" facs="tcp:204610:12"/> the Traditions they urged, were of ſuch things as were ſet down in the Scriptures. Nay, they did rather hereby confirm their authority, by ſhewing the great agreement there was be<g ref="char:EOLhyphen"/>tween ſuch as were true Traditions, and the holy Scriptures: For it ought to be remem<g ref="char:EOLhyphen"/>bred, that the Fathers were to encounter two ſort of Adverſaries; ſome few that denied the Scriptures, and others that received them: Where the Scriptures were denied, they al<g ref="char:EOLhyphen"/>ledg'd onely Traditions; where the Scriptures were allowed, they alledg'd the Scriptures in the firſt place, and Traditions for the true ſence and interpretation of the Scriptures. But it does not appear that they ever did al<g ref="char:EOLhyphen"/>ledge Traditions for any one Article of Faith which is not plainly expreſſed in the Scri<g ref="char:EOLhyphen"/>ptures.</p>
+            <p>I ſhall not here detain you with a cloud of Quotations which are collected to my hands by a great many learned Pens, but onely with a few that are plain and poſitive: for I think I may ſafely affirm, that if there be one Tradi<g ref="char:EOLhyphen"/>tion which runs through the Writings of the Antients as a common Principle, it is this; That the Scriptures contain the perfect Rule of Faith.</p>
+            <pb n="21" facs="tcp:204610:12"/>
+            <p>
+               <hi>Irenaeus.</hi> 
+               <q rend="margQuotes">The Scriptures are perfect, for <note place="margin">Lib. 1. cap. 47. Lib. 3. cap. 1.</note> they are the Word of God, and were dicta<g ref="char:EOLhyphen"/>ted by the Spirit of God. <hi>Again,</hi> We have known the method of our ſalvation by no o<g ref="char:EOLhyphen"/>ther but thoſe that brought us the Goſpel, which at firſt indeed they preach'd, but af<g ref="char:EOLhyphen"/>terwards by the Will of God they delivered it unto us in the Scriptures, to be the Foun<g ref="char:EOLhyphen"/>dation and Pillar of our Faith in time to come.</q>
+            </p>
+            <p>
+               <hi>Clem. Alexandr.</hi> 
+               <q rend="margQuotes">They that look for the <note place="margin">
+                     <hi>Strom.</hi> 7. vid.<g ref="char:punc">▪</g> three pages near the end.</note> truth, muſt non deſiſt till they have found it in the holy Scriptures: for the Writings of the Apoſtles and Prophets are the onely cer<g ref="char:EOLhyphen"/>tain principle of the Chriſtian Doctrine, the onely <hi>demonſtration</hi> 
+                  <note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </note> in matter of Faith.</q>
+            </p>
+            <p>
+               <hi>Origen.</hi>
+               <q rend="margQuotes">For the confirmation of all our <note place="margin">Hom. 25. in<g ref="char:punc">▪</g> S. Mat.</note> words which we deliver as Doctrine, we muſt produce the ſence of the Scriptures: for as no gold was ſanctified without the Temple, ſo no Opinion without the Scri<g ref="char:EOLhyphen"/>ptures is holy.</q>
+            </p>
+            <p>
+               <hi>Athanaſius.</hi> 
+               <q rend="margQuotes">If ye are the Diſciples of the <note place="margin">De Incarnat Chriſti.</note> Goſpel, ſpeak not wickedly againſt God, but walk by the Scriptures: for if ye diſcourſe without them, why do ye contend with us, who dare not ſpeak nor hear what is foreign to them?</q>
+            </p>
+            <pb n="22" facs="tcp:204610:13"/>
+            <p>
+               <hi>Chryſoſt.</hi> 
+               <q rend="margQuotes">If we ſpeak without the warrant <note place="margin">Hom. in Pſ. 95.</note> of Scripture, the thoughts of our hearers are uncertain; now they aſſent, anon they doubt, ſometimes they reject our diſcourſe as frivolous, at the beſt they receive it onely as probable; but when we produce the te<g ref="char:EOLhyphen"/>ſtimony of the voice of God from the Scri<g ref="char:EOLhyphen"/>pture, it gives authority to the ſpeech of the Preacher, and confirms the mind of the Hearer.</q>
+            </p>
+            <p>And to the ſame effect ſpeak St. <hi>Baſil,</hi> St. <hi>Cyril Hieroſ. Damaſcen, Theophylact, Theoph. Alexandr.</hi> and ſundry other of the Greeks.</p>
+            <p>Give me leave to ſubjoyn ſome few of the Latins, that by two ſorts of Witneſſes we may learn the Truth, and ſilence Gain-ſay<g ref="char:EOLhyphen"/>ers.</p>
+            <p>
+               <hi>Tertullian.</hi> 
+               <q rend="margQuotes">The Goſpel of Chriſt puts an end <note place="margin">Adv. Hermog. c. 22. De Praeſcr. adv. Haeret.</note> to all our curioſity and enquiry; when once we believe that, we expect nothing further: for this we believe firſt, that we are to believe nothing further. <hi>Again,</hi> I adore the fulneſs of the Scriptures. Let <hi>Hermogenes</hi> ſhew that 'tis written; if not, let him expect the woe denounced againſt them that add or de<g ref="char:EOLhyphen"/>tract any thing.</q>
+            </p>
+            <p>St. <hi>Cyprian.</hi> 
+               <q rend="margQuotes">If it be commanded in the <note place="margin">Ep. 74. ad Pompeium.</note> Goſpel, or contained in the Epiſtles or Acts
+<pb n="23" facs="tcp:204610:13"/> of the Apoſtles, then let us obſerve it as a divine and holy Tradition. And elſewhere having reckoned up the Canonical Books, Theſe are they (ſays he) that make up the Rule from whence we draw all the aſſertions of our Faith.</q>
+            </p>
+            <p>
+               <hi>Hieronymus.</hi> 
+               <q rend="margQuotes">The Church of Chriſt poſ<g ref="char:EOLhyphen"/>ſeſſes <note place="margin">In Mich. c. 1.</note> Aſſemblies in all the World, being joyn'd by the Unity of the Spirit; and hath Cities founded on the Law and the Prophets, the Goſpel and the Apoſtles. She departs not out of her own bounds, that is, from the Scriptures, but retains her firſt poſ<g ref="char:EOLhyphen"/>ſeſſion.</q>
+            </p>
+            <p>The time will not permit me to quote e<g ref="char:EOLhyphen"/>very Father, nor all of each; I ſhall onely adde the words of St. <hi>Auguſtine</hi> diſputing with <hi>Maximinus,</hi> and thoſe of <hi>Optatus</hi> againſt the Donatiſts, becauſe they are near akin, and highly uſeful to put an end to this and all o<g ref="char:EOLhyphen"/>ther Controverſies. <q rend="margQuotes">Neither ought I to al<g ref="char:EOLhyphen"/>ledge <note place="margin">S. Aug. contra Maximin. l. 3j c. 14.</note> now the Council of <hi>Nice,</hi> nor thou that of <hi>Ariminum,</hi> as prejudging the queſti<g ref="char:EOLhyphen"/>on on either ſide; for neither am I bound to the authority of the one, nor thou of the other: let us both conteſt with authorities of Scriptures, which are Witneſſes common
+<pb n="24" facs="tcp:204610:14"/> to us both. <hi>Optat.</hi> You ſay 'tis lawful, we <note place="margin">Optat. l. 5. con<g ref="char:EOLhyphen"/>tra Parmen.</note> ſay 'tis not; and between both, the people are in ſuſpence: let them not believe ei<g ref="char:EOLhyphen"/>ther, for perhaps we are both contentious; but let us be tryed by Judges: If they be Chriſtians, both ſides will not afford ſuch, <hi>(viz.</hi> ſuch as are impartial;) if they be Heathens, they are altogether ignorant; if they be Jews, they are utter Enemies. See<g ref="char:EOLhyphen"/>ing therefore we can find no competent Judges on Earth, we muſt have recourſe to Heaven: But alaſs! what can we expect from Heaven, while we have the laſt Will and Teſtament of our Saviour in the Go<g ref="char:EOLhyphen"/>ſpel?</q>
+            </p>
+            <p>He compares the Scriptures to the Will of a Teſtatour: if any Controverſie ariſe among the Kindred after his death, and one affirms this, another that; they don't run to his Grave, but peruſe the Writings, and ſo learn his mind as though he were ſtill among them. Our Saviour therefore, who is now in Hea<g ref="char:EOLhyphen"/>ven, foreſeeing ſtrifes after his death, hath left us his Will in <hi>the laſting Tables</hi> of the Goſpel: And ſurely theſe are ſufficient to teach us his mind, theſe alone muſt decide all our differences that concern Faith or Man<g ref="char:EOLhyphen"/>ners.</p>
+            <pb n="25" facs="tcp:204610:14"/>
+            <p>From hence alone we derive whatever we believe with our hearts, or confeſs with our mouths, as of neceſſity to ſalvation, becauſe by theſe we ſhall be judged at the laſt day: <q rend="margQuotes">For God (ſays St. <hi>Paul)</hi> ſhall judge the ſecrets of men by Jeſus Chriſt according to my Goſpel, </q> 
+               <hi>Rom.</hi> 2. 16. Theſe thingswe teach and exhort, as the ſure ground of our Faith and Practice, and venture our Souls upon them: <q rend="margQuotes">And if any man teach other<g ref="char:EOLhyphen"/>wiſe, (for I doubt not to apply the words of St. <hi>Paul</hi> again, 1 <hi>Tim. 6. 3. &amp;c.)</hi> and conſent not to wholſome words, even the words of our Lord Jeſus Chriſt, and to the Doctrine which is according <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o Godlineſs;</q> he is <hi>proud,</hi> he <hi>knows nothing,</hi> he <hi>doats;</hi> They are not mine, but the words of the Apoſtle, with many more as ſevere as theſe: <q rend="margQuotes">And from ſuch (ſaith he to <hi>Timothy</hi> his own Son in the Faith) withdraw thy ſelf, </q>
+               <hi>v.</hi> 5. What<g ref="char:EOLhyphen"/>ever any man would alledge or obtrude upon you, which is not conſonant to the wholſome words of Chriſt and his Apoſtles, which make up the whole Doctrine according to Godli<g ref="char:EOLhyphen"/>neſs, reject and diſclaim it as alien from the Faith; for unleſs ye can have new Scriptures, ye can never have new Articles of your Faith.
+<pb n="26" facs="tcp:204610:15"/> To theſe alone we appeal as the immoveable Rule of our Doctrines; and if any doubt ariſe in the interpretation of them, we refer our ſelves gladly to the firſt and pureſt Antiqui<g ref="char:EOLhyphen"/>ty: To Chriſt alone as the great Author and Finiſher of our Faith; to the Apoſtles and Evangeliſts, as the firſt Preachers and Pub<g ref="char:EOLhyphen"/>liſhers; to the Primitive Fathers and Coun<g ref="char:EOLhyphen"/>cils, as the beſt Helpers and Interpreters. Let no man therefore deceive you with vain words, nor beat you off from this hold and fortreſs; whatever is neceſſary to eternal life, is fully contained in the holy Scriptures; whatever is not there, can never be a part of the Chriſtian Faith. I conclude this point with the words and appeal of the Prophet, which is back'd with an excellent reaſon, <hi>Iſai.</hi> 8. 20. <q rend="margQuotes">To the Law and to the Teſti<g ref="char:EOLhyphen"/>mony; if they ſpeak not according to this word, it is becauſe there is no light in them.</q>
+            </p>
+            <p n="3">III. I ſhould now proceed in the third place to obſerve the emphaſis and force of the Particle <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <hi>The Faith was delivered to the Saints, and that but once:</hi> Which little word is of great weight, and carries with it ſuffi<g ref="char:EOLhyphen"/>cient matter to conclude and determine thoſe
+<pb n="27" facs="tcp:204610:15"/> that ſeek it, and to ſettle and ſecure thoſe that hold it. But that which I chiefly deſigne, (ſince the time forbids me to enlarge upon it) is the <hi>Immutability of this Faith,</hi> which is the proper importance of the word <hi>Once.</hi>
+            </p>
+            <p>That which Chriſt received of his Father, he communicated to his Apoſtles; ſo he teſtifies himſelf, when he prayed for them, <hi>Joh.</hi> 17. 8. <q rend="margQuotes">I have given them the words which thou gaveſt me, and they have re<g ref="char:EOLhyphen"/>ceived them: </q> The ſame that they received of Chriſt, they delivered to the Saints. So St. <hi>Peter</hi> declares, 2 <hi>Pet.</hi> 1. 16. <q rend="margQuotes">We have not followed cunningly deviſed Fables, when we made known unto you the power and coming of our Lord Jeſus Chriſt, but were eye-witneſſes of his Majeſty.</q> Nay, St. <hi>Paul</hi> ſpeaks of <hi>his Goſpel</hi> and the <hi>preach<g ref="char:EOLhyphen"/>ing of Jeſus Christ,</hi> as one and the ſame thing, <hi>Rom.</hi> 16. 25. which he there interprets once for all to be, <q rend="margQuotes">The Revelation of the My<g ref="char:EOLhyphen"/>ſtery which was kept ſecret ſince the World began, but now is made manifeſt, and <hi>by the Scriptures of the Prophets, according to the commandment of the everlaſting God,</hi> [mark that again, I pray!] made known to all Nations for the obedience of Faith.</q>
+            </p>
+            <pb n="28" facs="tcp:204610:16"/>
+            <p>Here then we are ſure of the whole immu<g ref="char:EOLhyphen"/>table counſel of God for the Faith and Obe<g ref="char:EOLhyphen"/>dience of all Nations, which the ſucceeding Church is to preach and receive as from the beginning, not to enlarge or ſhorten, not to alter or corrupt by any mixtures or ad<g ref="char:EOLhyphen"/>ditions of their own deviſing: For though when Chriſt founded his Church, he made that indeed capable of a continual addition, even till the full period of his coming a<g ref="char:EOLhyphen"/>gain to Judgment; yet the foundation of Faith upon which he built it, is like himſelf, <hi>the ſame yeſterday, and to day, and for ever;</hi> it ſtands as a Rock, firm and unalterable, never to be changed by Man or Angel. For though <q rend="margQuotes">We (ſays St. <hi>Paul, Gal.</hi> 1. 8.) or an Angel from Heaven, preach any other Goſpel unto you, that that which we have preached unto you, let him be accurſed.</q> A dreadful ſentence at firſt hearing! but that we may not take it for a ſudden tranſ<g ref="char:EOLhyphen"/>port, we have the ſame reſult from his ſe<g ref="char:EOLhyphen"/>cond thoughts <hi>(v.</hi> 9.) <q rend="margQuotes">As we ſaid before ſo ſay I now again, If any man preach any other Goſpel unto you, than that ye have received, let him be accurſed. </q>And what need I ſay more? If an Apoſtle or an Angel
+<pb n="29" facs="tcp:204610:16"/> may not attempt a change in the Doctrine of the Goſpel, under pain of a Curſe, what ſhall be the doom of any other? If Chriſt knew the mind of his Father, and the Apo<g ref="char:EOLhyphen"/>ſtles his, what words can expreſs the heinouſ<g ref="char:EOLhyphen"/>neſs of that guilt, where men preſume to make additions to it? I ſhall add but one Rule which may ſerve to eſtabliſh us in this Faith againſt all ſort of innovations, and 'tis that of <hi>Tertullian</hi>'s, where he pleads Preſcri<g ref="char:EOLhyphen"/>ption for the Truth: <hi>Id dominicum &amp; ve<g ref="char:EOLhyphen"/>rum quod prius traditum, id extraneum &amp; fal<g ref="char:EOLhyphen"/>ſum, quod poſterius immiſſum.</hi> Whatever is truly a part of the Chriſtian Doctrine, was once at firſt delivered; whatever bears any latter date, can never be a point of the true Faith.</p>
+            <p n="4">IV. And now methinks the Application of the whole is ſo eaſie and obvious, that it makes it ſelf: For if the Faith of the Goſpel be ſo certain, and has been ſo fully eviden<g ref="char:EOLhyphen"/>ced and made known to us, if it be a Do<g ref="char:EOLhyphen"/>ctrine of ſo great and pretious importance, even the Doctrine that brings Salvation; A Doctrine that comes from God by his onely begotten Son, and ſhews us the onely way to him, on which the eternal welfare of our
+<pb n="30" facs="tcp:204610:17"/> Souls depends, and without which we had ſtill remained what we were before, chil<g ref="char:EOLhyphen"/>dren of wrath: Surely then 'tis worthy of our Chriſtian Reſolution and Zeal, not one<g ref="char:EOLhyphen"/>ly to love and obey it from the heart, but to confeſs and maintain and propagate in the World with our earneſt endeavours, and perſevering diligence; <hi>Then</hi> we cannot but ſee what reaſon we have, <q rend="margQuotes">to ſtand faſt in one Spirit, with one mind, ſtriving toge<g ref="char:EOLhyphen"/>ther for the Faith of the Goſpel, </q>as St. <hi>Paul</hi> exhorts, <hi>Phil.</hi> 1. 27. or as St. <hi>Jude</hi> here in the Text, <hi>To contend earneſtly for it, as 'twas once delivered to the Saints.</hi>
+            </p>
+            <p>There is a Zeal (I know) in the World which tends to deſtroy what it ſeems to con<g ref="char:EOLhyphen"/>tend for, which is full of bitterneſs and wrath, and clamours, and evil ſpeakings; a Zeal that commonly rageth and is confident, becauſe it proceeds from ignorance, and knows not whereon to bottom: There is a Zeal that ſets on fire the courſe of Na<g ref="char:EOLhyphen"/>ture, and is ſet on fire of Hell; nay, that would call for fire from Heaven to conſume thoſe that oppoſe it, ſuch as once betray'd it ſelf in two of the Diſciples, before they <note place="margin">Luke 9. 54, 55.</note> well underſtood the Goſpel-Spirit. But
+<pb n="31" facs="tcp:204610:17"/> (bleſſed be God for his Grace) we have not ſo learned Chriſt; no, the Zeal which the true Faith requires, and works in all its ſincere Followers, is founded on knowledge and a ſound mind; it is innocent, and pa<g ref="char:EOLhyphen"/>tient, and holy; it is always tempered with meekneſs, and guided by the wiſdom that is from above; <q rend="margQuotes">which is firſt pure, then <note place="margin">Jam. 3. 17.</note> peaceable, gentle, and eaſie to be entrea<g ref="char:EOLhyphen"/>ted, full of mercy and good fruits, without partiality, and without hypocriſie. </q>Where<g ref="char:EOLhyphen"/>fore while we ſtrive together for the Faith of the Goſpel, let us ſtrictly keep to the Laws, and walk by the Rules which the Go<g ref="char:EOLhyphen"/>ſpel preſcribes to us; always remembring that Apoſtolical Caution, 2 <hi>Tim.</hi> 2. 5. <q rend="margQuotes">If a man ſtrive for Maſteries, yet he is not crown<g ref="char:EOLhyphen"/>ed, except he ſtrive lawfully.</q>
+            </p>
+            <p>As for you (my Brethren and Friends) whom I take to be grounded in this Faith, and long ſince ſtabliſhed in the love of it, it is needleſs (I hope) to load you with Per<g ref="char:EOLhyphen"/>ſwaſions to ſtand for it, or indeed to conti<g ref="char:EOLhyphen"/>nue and perſevere in it: It is but the effect of that happy Education which your Parents at firſt beſtowed upon you; and 'tis but
+<pb n="32" facs="tcp:204610:18"/> reaſonable to expect that the Seed of God which was then ſown in your hearts, ſhould grow up daily to perfection, and bring forth ſuitable fruit: For any man to draw back or deſert the ways of Religion, argues ei<g ref="char:EOLhyphen"/>ther ignorance of its grounds, or great vani<g ref="char:EOLhyphen"/>ty and lightneſs of mind; but for Us who are deſcended from the Tribe of <hi>Levi,</hi> and cannot be ſuppoſed to want inſtruction, to forſake, or waver, or even to doubt of our moſt Holy Faith, what is it elſe, but to caſt the higheſt reflection upon the honour of Religion, to ſtain the care and piety of our Fathers, to reproach and vilifie that Do<g ref="char:EOLhyphen"/>ctrine which they ſo faithfully diſpenſed, and ſo effectually recommended to the World? Wherefore, <q rend="margQuotes">Remember them who <note place="margin">Heb. 13. 7.</note> had the Rule over you, who have ſpoken unto you the Word of God; whoſe Faith follow, conſidering the end of their Con<g ref="char:EOLhyphen"/>verſation. </q>Remember them (I ſay) who were your <hi>Parents</hi> and <hi>Paſtours</hi> too, and be not back-ſliding Children.</p>
+            <p>And as the beſt means to maintain this Perſeverance, let us all be moſt earneſtly ex<g ref="char:EOLhyphen"/>horted to joyn in an hearty Union and Com<g ref="char:EOLhyphen"/>pliance
+<pb n="33" facs="tcp:204610:18"/> with the Doctrine, and Diſcipline, and Liturgy of this Excellent and Apoſtoli<g ref="char:EOLhyphen"/>cal Church, whereof we are Members: A Church that comes neareſt the Pattern in the Mount; to that I mean which be<g ref="char:EOLhyphen"/>gan at <hi>Jeruſalem,</hi> and went forth from <hi>Sion,</hi> which was once for all founded by our Lord, built up by his Apoſtles, and continued pure and uncorrupt in all the firſt and beſt A<g ref="char:EOLhyphen"/>ges of Religion.</p>
+            <p>And ſeeing you are now diſperſed and diſtributed into ſeveral Callings, and a great diverſity of Conditions, howſoever God hath diſpoſed of you, ſee that you carry the Reputation of your Family and Extra<g ref="char:EOLhyphen"/>ction along with you; let it appear by your walking in Chriſt, as you have received him, that the Principles of the Chriſtian Religion have their efficacy in every Pro<g ref="char:EOLhyphen"/>feſſion; ſhew that you have been taught from your infancy to live ſoberly, righte<g ref="char:EOLhyphen"/>ouſly, and godly in this preſent World: ſo ſhall ye adorn the Goſpel which your Fathers preached, and prove your ſincerity in the Faith, ſo ſhall it be manifeſt to your ſelves and others, that ye do not reſt merely
+<pb n="34" facs="tcp:204610:19"/> in any external Priviledges, but that you live over the Doctrines you profeſs, and practiſe <hi>the Truth which is after Godli<g ref="char:EOLhyphen"/>neſs.</hi>
+            </p>
+            <p>And becauſe the great demonſtration of your Faith is to be ſeen in your Works, e<g ref="char:EOLhyphen"/>ſpecially the works of Mercy and Charity, <hi>Put on therefore (as the Elect of God, holy, and beloved) Bowels of mercies, kindneſs,</hi> and a benign temper of mind; <hi>and above all theſe things, put on Charity, which is the bond of perfectneſs,</hi> as the Apoſtle again exhorts, <hi>Col.</hi> 3. 12. You cannot want Objects to move your compaſſion, nor Motives to con<g ref="char:EOLhyphen"/>ſtrain it: Here is a large Field before you, of the <hi>Widows</hi> and the <hi>Fatherleſs,</hi> whoſe Relation and Birth muſt needs endear this duty to you: Some of their Widows are ſtill alive, who ſuffered much for their con<g ref="char:EOLhyphen"/>ſtancy to the Faith, and their fidelity to the Crown (two inſeparable Notes of a ge<g ref="char:EOLhyphen"/>nuine Son of the Church of <hi>England)</hi> du<g ref="char:EOLhyphen"/>ring the times of the <hi>Great Rebellion;</hi> and many are the Children that can ſcarce ſpeak for themſelvs, who through the narrow Pro<g ref="char:EOLhyphen"/>viſion that is made for the CLERGY in
+<pb n="35" facs="tcp:204610:19"/> too many places of this Kingdom, beſpeak your aſſiſtance by my mouth.</p>
+            <p>'Tis the command you know of the Apo<g ref="char:EOLhyphen"/>ſtle, <q rend="margQuotes">That whilſt ye have opportunity, ye <note place="margin">Gal. 6. 10.</note> ſhould do good unto all men, but eſpe<g ref="char:EOLhyphen"/>cially to them that are of the Houſhold of Faith: </q>What ſhould be accounted the Houſhold of Faith, rather than the Families of them that preach it? And what opportunity can ye have of doing good, that exceeds this?</p>
+            <p>And conſider (I beſeech you) <hi>You</hi> that are Rich among the Brotherhood, who it is that hath put ſuch a difference between you and them; was it purely your own Induſtry, or Parts, or Studies, that got you this Wealth; or is it not rather the Bleſ<g ref="char:EOLhyphen"/>ſing of God, who hath given you all things richly to enjoy? What has any amongſt you which he did not receive? Now if you did receive it, look up to God your great Be<g ref="char:EOLhyphen"/>nefactor with thankful hearts, and look down upon the Widows and the Fatherleſs with Pity and Compaſſion.</p>
+            <pb n="36" facs="tcp:204610:20"/>
+            <p>Depoſite that Tribute which you owe unto God for their uſe, and what you leave with <hi>the Stewards of the Feaſt</hi> to day, let it be but an Earneſt-Penny of what you de<g ref="char:EOLhyphen"/>ſigne for <hi>the Treaſurers of the Corporation</hi> from time to time: Think it not enough to ſprinkle a little now, but lay by ſomething for them out of your conſtant Income; and when you make Proviſion for your own Families, let <hi>the Houſhold of Faith</hi> have ſome ſhare and portion, even in your laſt Wills and Teſtaments.</p>
+            <p>Reſolve to do it, before you go hence; Vow it here in the Church before the Lord your God, from the ground of the heart, and make him ſome chearful and ſuitable acknowledgement for his diſtinguiſhing Pro<g ref="char:EOLhyphen"/>vidence towards you and yours: So ſhall the reſt of your ſubſtance be bleſſed and in<g ref="char:EOLhyphen"/>creaſed, and the Prayers of the Deſtitute ſhall be heard in your behalf; ſo ſhall your own Poſterity thrive the better, nay, the Chil<g ref="char:EOLhyphen"/>dren of others, and the Generations to come ſhall call ye bleſſed, and your great reward is with the Lord; for I am warranted to aſ<g ref="char:EOLhyphen"/>ſure you, <q rend="margQuotes">That God is not unrighteous to <note place="margin">Heb. 6. 10.</note>
+                  <pb n="37" facs="tcp:204610:20"/> forget your work and labour of Love, which ye have ſhewed towards his Name, in that ye have miniſtred unto the Saints, and yet do miniſter.</q>
+            </p>
+            <epigraph>
+               <q rend="margQuotes">
+                  <p>Now unto him that is able to keep you from falling, and to preſent you faultleſs be<g ref="char:EOLhyphen"/>fore the preſence of his glory with excee<g ref="char:EOLhyphen"/>ding <note place="margin">Jude 24. 2<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.</note> joy,</p>
+                  <p>To the onely wiſe God our Saviour, be glory and majeſty, dominion and power, now and ever. <hi>Amen.</hi>
+                  </p>
+               </q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="financial_report">
+            <pb n="38" facs="tcp:204610:21" rendition="simple:additions"/>
+            <head>
+               <hi>A true Report of the S<g ref="char:V">Ʋ</g>MS Diſtributed for the Relief of the Widows and Children of</hi> Clergy-men, <hi>in the Years</hi> 1684, 85, 86.</head>
+            <p>
+               <table>
+                  <head>
+                     <hi>By the</hi> Corporation.</head>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell role="label">
+                        <hi>l.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>s.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell rows="3">
+                        <hi>A.</hi> 1684</cell>
+                     <cell>To 28 Sequeſtred Miniſters Widows</cell>
+                     <cell>084</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>To 68 other Miniſters Widows</cell>
+                     <cell>101</cell>
+                     <cell>10</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>For Binding out Children Ap<g ref="char:EOLhyphen"/>prentices</cell>
+                     <cell>100</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>285</cell>
+                     <cell>10</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell rows="2">
+                        <hi>A.</hi> 1685</cell>
+                     <cell>To 34 Sequeſt. Miniſters Wid.</cell>
+                     <cell>099</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>To 98 other Miniſters Widows</cell>
+                     <cell>129</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>228</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell rows="3">
+                        <hi>A.</hi> 1686</cell>
+                     <cell>To 45 Sequeſt. Miniſters Wid.</cell>
+                     <cell>135</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>To 112 other Miniſters Wid.</cell>
+                     <cell>179</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>For deceaſed Miniſters Children</cell>
+                     <cell>020</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>334</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>847</cell>
+                     <cell>10</cell>
+                     <cell>0</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>
+                     <hi>By the</hi> Stewards <hi>of the Feaſts.</hi>
+                  </head>
+                  <row>
+                     <cell>For Relief of poor Miniſters Widows, and Binding out Children, for the ſaid three years, about</cell>
+                     <cell>360</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Tot.—</cell>
+                     <cell>1207</cell>
+                     <cell>10</cell>
+                     <cell>0</cell>
+                  </row>
+               </table>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
